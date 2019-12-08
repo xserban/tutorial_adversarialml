@@ -24,4 +24,6 @@ $ pip install -r requirements.txt
 
 Afterwards, run ```jupyter notebook``` and select the notebook.
 
+Using the first notebook cell you can hide or reveal the implementation details.
+
 
