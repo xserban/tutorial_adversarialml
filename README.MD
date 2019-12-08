@@ -1,4 +1,4 @@
-# Tutorial Adversarial Machine Learning Examples
+# Tutorial Adversarial Machine Learning
 ## Focusing on Adversarial Examples
 
 This document supports a tutorial on adversarial examples presented at [WIFS 2019](https://wifs2019.tudelft.nl/?q=node/12) and it is an interactive extension of a [larger survey](https://arxiv.org/abs/1810.01185) made publicly available before the tutorial.
