@@ -26,4 +26,5 @@ Afterwards, run ```jupyter notebook``` and select the notebook.
 
 Using the first notebook cell you can hide or reveal the implementation details.
 
-
+In order to run a cell you can use ```shift+enter```. 
+While in presentation mode, you can use ```space``` to go forwarard and ```shift+space``` to go backwards.
